@@ -13,7 +13,7 @@
 ---
 
 ## DAY 1  
-**Daily Macros:** 2,920 kcal | 165g protein | 40g fiber | 190g carbs
+>**Daily Macros:** 2,920 kcal | 165g protein | 40g fiber | 190g carbs
 
 ### LUNCH — Power Protein Tuna Chickpea Bowl  
 *Macros: 950 kcal | 55g protein | 18g fiber | 60g carbs*
